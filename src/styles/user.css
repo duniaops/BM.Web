@@ -1,0 +1,12 @@
+.LogInApp {
+    text-align: left;
+    padding: 1em;
+    margin: 1em;
+    /* border: 1px solid #d3d3d3; */
+    border-radius: .5em;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px !important;
+    margin-top: 100px;
+}
